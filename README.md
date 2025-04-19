@@ -32,27 +32,28 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="57" height="57" />
 </a>
 &nbsp; 
+&nbsp; 
 <!-- CSS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="57" height="57" />
 </a>
+&nbsp; 
 &nbsp; 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="57" height="57" />
 </a>
 &nbsp; 
+&nbsp; 
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
 </a>
- &nbsp;    
+ &nbsp;
+ &nbsp; 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
-&nbsp; 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
- &nbsp;          
+         
 
   
 ## Github Stats 
