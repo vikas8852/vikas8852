@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hey there! I'm diving deep into the world of computer science while cruising through my B.Tech in CSE at Galgoitas University. I'm not just about sleek and user-friendly interfaces – they call me the frontend maestro! 🎨 But hold on, the adventure doesn't end there. I'm on a mission to level up and become a full-stack wizard and an Android app guru. Join me on this tech rollercoaster! 🧙‍♂️
+Hey there! I'm diving deep into the world of computer science while cruising through my B.Tech in CSE at Galgoitas College. I'm not just about sleek and user-friendly interfaces – they call me the frontend maestro! 🎨 But hold on, the adventure doesn't end there. I'm on a mission to level up and become a full-stack wizard and an Android app guru. Join me on this tech rollercoaster! 🧙‍♂️
 
 ## My Tech Toolkit ✨
 
@@ -53,9 +53,6 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
  &nbsp;          
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
-      
 
   
 ## Github Stats 
